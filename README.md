@@ -2,7 +2,7 @@
 
 Student in Kindelia Foundation
 
-Interested in Rust, Haskell and C++
+Interested in Kind, Rust, Haskell and C++
 
 
 
