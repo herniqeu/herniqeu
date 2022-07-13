@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Student in Kindelia Foundation
-
-Interested in Kind, Rust, Haskell and C++
+Interested in Rust, Haskell and C++
 
 
 
