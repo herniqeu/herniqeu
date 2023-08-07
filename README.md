@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Olá! Meu nome é Henrique Godoy :v: </h1>
-<h3 align="center"> Estou no 2º Semestre de Ciência da Computação no INTELI.</h3>
+<h3 align="center"> Estou no 3º Semestre de Ciência da Computação no INTELI.</h3>
 </strong>
 <br />
 
