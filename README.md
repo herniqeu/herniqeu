@@ -9,6 +9,3 @@
   <li>Interesse muito por programação funcional (ex: <strong> Haskell </strong>, <strong>Ocaml</strong>)</li>
   <li>Gosto muito de programação de baixo nivel (<strong>C/C++<strong>, <strong>C#</strong>, <strong>Rust</strong>)</li>
 </ul>
-
-[![card](https://github-readme-stats.vercel.app/api?username=herniqeu&theme=default)](https://github.com/herniqeu/)
-
