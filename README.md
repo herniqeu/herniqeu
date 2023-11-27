@@ -6,6 +6,5 @@
 
 <ul>
   <li>Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Deep Learning</strong></li>
-  <li>Interesse muito por programação funcional (ex: <strong> Haskell </strong>, <strong>Ocaml</strong>)</li>
   <li>Gosto muito de programação de baixo nivel (<strong>C/C++<strong>, <strong>C#</strong>, <strong>Rust</strong>)</li>
 </ul>
